@@ -1,2 +1,4 @@
 <h1>wirefram</h1>
-<img src=""wireframe\img.png"">
+<a href="">
+<img src="img.png"></a>
+
